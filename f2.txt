@@ -1,2 +1,2 @@
-line 1 added
+line 1 added then changed
 line 2 added
